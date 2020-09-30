@@ -105,6 +105,9 @@
   <properties>
     <java.version>1.7</java.version>
     <scala.binary.version>2.10</scala.binary.version>
+    <sonar.projectKey>leofuxiaohui_learning-spark</sonar.projectKey>
+    <sonar.organization>leofuxiaohui</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
   <build>
     <pluginManagement>
